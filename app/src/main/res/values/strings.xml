@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">One Dollar</string>
+    <string name="api_url">https://quotation-api-cdn.dunamu.com/</string>
+    <string name="title">지금 1 달러는</string>
+    <string name="based">기준</string>
+    <string name="settings">설정</string>
+    <string name="notification">알림 ON / OFF</string>
+    <string name="price">이 금액이면 알림 띠링</string>
+    <string name="version">버전 정보</string>
+</resources>
